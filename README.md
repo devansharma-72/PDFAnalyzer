@@ -7,10 +7,6 @@ PDF Analyzer Bot is an innovative project designed to leverage the Gemini API an
 - `app.py`: The main application file that runs the PDF Analyzer Bot.
 - `requirements.txt`: A list of all the dependencies and libraries required to run the project.
 
-## LinkedIn Post
-
-For more information and updates, check out our LinkedIn post: [PDF Analyzer Bot LinkedIn Post](https://www.linkedin.com/posts/suraj-kumar-362360289_ai-chatbot-innovation-activity-7222145306778378240-_Dn8?utm_source=share&utm_medium=member_desktop)
-
 ## Installation
 
 To get started with the PDF Analyzer Bot, follow the steps below:
